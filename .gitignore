@@ -1,5 +1,8 @@
 /project
 /finished
 *.apk
+*.css
 /hacks
 /obf
+/style
+/hacks2
